@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oliver</h1>
 <h3 align="center">Im learning Python and JavaScript programming</h3>
 
-- 🔭 I’m currently working on **a private discord bot**
+- 🔭 I’m currently working on **a private discord bot and multiple other small projects**
 
 - ⚡ Fun fact **Im not that good in programming**
 
