@@ -9,8 +9,6 @@
 
 - 💬 Ask me about **Python and Python Bots**
 
-- ⚡ Fun fact **I think i never learn Python xD**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
