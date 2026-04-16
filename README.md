@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm LxstOni</h1>
 <h3 align="center">I'm a German Hobby programmer</h3>
 
-- 🔭 I’m currently working on **RWA multi purpose Application**
+- 🔭 I’m currently working on **Reworking my Discord Bot**
 
 - 🌱 I’m currently learning **Python Frameworks(Flask,Django,FastAPI)**
 
